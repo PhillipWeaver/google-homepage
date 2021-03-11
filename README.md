@@ -1,0 +1,3 @@
+Google Homepage project from The Odin Project
+This is the first project of TOP 'foundations' course, with the learning objectives of solidifying some of the basic concepts in memory from the initial overview of HTML, CSS and Git. 
+The aim is to create a faximile (non-functioning) of the google homepage using the lessons learnt so for and Chrome Development tools to inspect the real Google Homepage and become familiar with the process.
