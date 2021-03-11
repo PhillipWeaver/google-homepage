@@ -6,8 +6,17 @@ body {
 }
     }
 
-div {
+    
+#box-container {
     display: flex;
-    flex-direction: column;
-    background-color: rgb(153, 153, 221);
+    flex-direction: row-reverse;
+    justify-content: center;
+    background-color: rgb(100, 146, 15);
+}
+
+#box-1
+{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(146, 15, 140);
 }
